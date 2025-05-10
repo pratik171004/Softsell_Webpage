@@ -2,7 +2,6 @@
 
 SoftSell is a sleek, responsive, and modern landing page for businesses offering software license resale services. Built with **React + Vite + Tailwind CSS**, and hosted via **GitHub Pages**, it’s designed for high conversion with smooth UX and mobile-first design.
 
-![SoftSell Banner](banner-placeholder.png)
 
 ---
 
@@ -31,6 +30,12 @@ SoftSell is a sleek, responsive, and modern landing page for businesses offering
  ## Build for Production
 
  npm run build
+
+ ## Link
+
+ https://pratik171004.github.io/Softsell_Webpage/
+
+ 
 
 
 
