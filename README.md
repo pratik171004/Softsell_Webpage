@@ -1,12 +1,56 @@
-# React + Vite
+# 🚀 SoftSell – License Resale Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SoftSell is a sleek, responsive, and modern landing page for businesses offering software license resale services. Built with **React + Vite + Tailwind CSS**, and hosted via **GitHub Pages**, it’s designed for high conversion with smooth UX and mobile-first design.
 
-Currently, two official plugins are available:
+![SoftSell Banner](banner-placeholder.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Blazing-fast Vite + React setup
+- 🎨 Tailwind CSS for modern, utility-first design
+- 🧩 Modular components: Hero, How It Works, Testimonials, Contact Form
+- 📱 Fully responsive (mobile → desktop)
+- 🧠 Clean code structure for easy customization
+- 🌐 Hosted on GitHub Pages
+
+---
+
+## 📁 Project Structure
+
+softsell-website/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Hero.jsx
+│ │ ├── HowItWorks.jsx
+│ │ ├── WhyChooseUs.jsx
+│ │ ├── Testimonials.jsx
+│ │ └── ContactForm.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── styles.css
+├── index.html
+├── vite.config.js
+├── package.json
+└── README.md
+
+## Tech Stack
+ React
+
+ Vite
+
+ Tailwind CSS
+
+ Lucide Icons
+
+ GitHub Pages (for deployment)
+
+ ## Build for Production
+
+ npm run build
+
+
+
+
