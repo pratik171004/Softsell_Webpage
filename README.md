@@ -17,25 +17,6 @@ SoftSell is a sleek, responsive, and modern landing page for businesses offering
 
 ---
 
-## 📁 Project Structure
-
-softsell-website/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Hero.jsx
-│ │ ├── HowItWorks.jsx
-│ │ ├── WhyChooseUs.jsx
-│ │ ├── Testimonials.jsx
-│ │ └── ContactForm.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── styles.css
-├── index.html
-├── vite.config.js
-├── package.json
-└── README.md
-
 ## Tech Stack
  React
 
